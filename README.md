@@ -103,5 +103,7 @@ minikube service apache-service
 
 ```
 🙋‍♂️ Author
+
 Abhijeet Gadge
+
 GitHub | LinkedIn | Twitter
